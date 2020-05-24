@@ -1,0 +1,981 @@
+15:22:36.773	SERVER	admin	OK	Server was started (port: 1984).
+15:22:36.844	SERVER	admin	OK	HTTP Server was started (port: 8984).
+15:22:58.916	0:0:0:0:0:0:0:1:49991	admin	REQUEST	[GET] /
+15:23:01.808	0:0:0:0:0:0:0:1:49991	admin	200		2898.68 ms
+15:23:02.084	0:0:0:0:0:0:0:1:49992	admin	REQUEST	[GET] /favicon.ico
+15:23:02.086	0:0:0:0:0:0:0:1:49992	admin	404	No function found that matches the request.	1.7 ms
+15:47:37.049	SERVER	admin	ERROR	Server is running or permission was denied.
+15:47:48.908	0:0:0:0:0:0:0:1:65002	admin	REQUEST	[GET] /myactors
+15:47:48.997	0:0:0:0:0:0:0:1:65002	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movies' does not exist.	89.7 ms
+15:47:49.141	0:0:0:0:0:0:0:1:65002	admin	REQUEST	[GET] /favicon.ico
+15:47:49.142	0:0:0:0:0:0:0:1:65002	admin	404	No function found that matches the request.	1.14 ms
+15:48:24.507	0:0:0:0:0:0:0:1:65002	admin	REQUEST	[GET] /myactors
+15:48:24.775	0:0:0:0:0:0:0:1:65002	admin	200		269.06 ms
+15:48:25.664	0:0:0:0:0:0:0:1:65002	admin	REQUEST	[GET] /myactors
+15:48:25.673	0:0:0:0:0:0:0:1:65002	admin	200		9.39 ms
+15:53:37.038	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:53:37.099	0:0:0:0:0:0:0:1:65008	admin	200		61.08 ms
+15:53:53.875	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:53:54.017	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movie' does not exist.	144.05 ms
+15:53:54.936	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:53:54.941	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movie' does not exist.	6.12 ms
+15:53:55.481	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:53:55.487	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movie' does not exist.	6.38 ms
+15:54:13.772	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:13.908	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/ActorsData' does not exist.	136.47 ms
+15:54:14.501	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:14.505	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/ActorsData' does not exist.	3.86 ms
+15:54:14.756	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:14.759	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/ActorsData' does not exist.	2.88 ms
+15:54:14.949	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:14.952	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/ActorsData' does not exist.	3.76 ms
+15:54:15.118	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:15.122	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/ActorsData' does not exist.	3.69 ms
+15:54:21.762	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:21.872	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movies' does not exist.	110.31 ms
+15:54:32.595	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:32.687	0:0:0:0:0:0:0:1:65008	admin	200		92.46 ms
+15:54:33.486	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:33.501	0:0:0:0:0:0:0:1:65008	admin	200		15.92 ms
+15:54:33.673	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:33.686	0:0:0:0:0:0:0:1:65008	admin	200		13.72 ms
+15:54:55.744	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:55.799	0:0:0:0:0:0:0:1:65008	admin	200		54.72 ms
+15:54:56.281	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:56.289	0:0:0:0:0:0:0:1:65008	admin	200		7.88 ms
+15:54:56.475	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:54:56.482	0:0:0:0:0:0:0:1:65008	admin	200		7.31 ms
+15:55:03.026	0:0:0:0:0:0:0:1:65008	admin	REQUEST	[GET] /myactors
+15:55:03.143	0:0:0:0:0:0:0:1:65008	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movies' does not exist.	117.91 ms
+15:56:36.089	0:0:0:0:0:0:0:1:65029	admin	REQUEST	[GET] /myactors
+15:56:36.184	0:0:0:0:0:0:0:1:65029	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movies' does not exist.	95.19 ms
+15:56:44.284	0:0:0:0:0:0:0:1:65029	admin	REQUEST	[GET] /myactors
+15:56:44.521	0:0:0:0:0:0:0:1:65029	admin	200		237.58 ms
+15:56:45.147	0:0:0:0:0:0:0:1:65029	admin	REQUEST	[GET] /myactors
+15:56:45.163	0:0:0:0:0:0:0:1:65029	admin	200		16.07 ms
+16:17:11.757	SERVER	admin	OK	Server was started (port: 1984).
+16:17:11.815	SERVER	admin	OK	HTTP Server was started (port: 8984).
+16:17:18.780	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phones
+16:17:19.686	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	909.43 ms
+16:17:21.218	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phones
+16:17:21.219	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	1.45 ms
+16:17:21.871	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phones
+16:17:21.872	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	1.54 ms
+16:17:22.175	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phones
+16:17:22.177	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	1.39 ms
+16:17:22.420	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phones
+16:17:22.421	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	1.28 ms
+16:17:22.635	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phones
+16:17:22.636	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	1.47 ms
+16:17:24.438	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phone
+16:17:24.439	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	0.45 ms
+16:17:36.700	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phone
+16:17:36.819	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	118.77 ms
+16:17:37.325	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phone
+16:17:37.325	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	1.0 ms
+16:17:37.618	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phone
+16:17:37.619	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	0.83 ms
+16:17:37.821	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phone
+16:17:37.822	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	0.74 ms
+16:17:41.223	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /phones
+16:17:41.282	0:0:0:0:0:0:0:1:65065	admin	404	No function found that matches the request.	59.33 ms
+16:17:58.192	0:0:0:0:0:0:0:1:65065	admin	REQUEST	[GET] /allphones
+16:17:58.417	0:0:0:0:0:0:0:1:65065	admin	200		225.65 ms
+16:19:31.773	0:0:0:0:0:0:0:1:65077	admin	REQUEST	[GET] /choosephone
+16:19:31.844	0:0:0:0:0:0:0:1:65077	admin	200		70.54 ms
+16:19:36.754	0:0:0:0:0:0:0:1:65077	admin	REQUEST	[POST] /phones
+16:19:36.947	0:0:0:0:0:0:0:1:65077	admin	200		193.04 ms
+16:26:42.780	0:0:0:0:0:0:0:1:65104	admin	REQUEST	[POST] /phones
+16:26:42.840	0:0:0:0:0:0:0:1:65104	admin	200		60.73 ms
+16:52:22.027	0:0:0:0:0:0:0:1:65148	admin	REQUEST	[GET] /allphones
+16:52:22.086	0:0:0:0:0:0:0:1:65148	admin	200		58.43 ms
+16:57:51.075	0:0:0:0:0:0:0:1:65181	admin	REQUEST	[GET] /allphones
+16:57:51.142	0:0:0:0:0:0:0:1:65181	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/prueba.xqm, 32/10: [basex:restxq] Several functions found for path "/allphones": - page:Allphones - page:Allphones	67.18 ms
+16:58:34.150	0:0:0:0:0:0:0:1:65181	admin	REQUEST	[GET] /allphones
+16:58:34.282	0:0:0:0:0:0:0:1:65181	admin	200		133.15 ms
+17:00:34.900	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:00:34.950	0:0:0:0:0:0:0:1:65197	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 20/35: [XPST0008] Undeclared variable: $name.	49.85 ms
+17:00:50.868	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:00:50.973	0:0:0:0:0:0:0:1:65197	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 9/10: [basex:restxq] Variable $phoneid is not specified as argument.	105.13 ms
+17:00:51.654	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:00:51.779	0:0:0:0:0:0:0:1:65197	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 9/10: [basex:restxq] Variable $phoneid is not specified as argument.	125.0 ms
+17:01:00.948	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:01.054	0:0:0:0:0:0:0:1:65197	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 9/10: [basex:restxq] Variable $name is not specified as argument.	105.27 ms
+17:01:01.737	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:01.818	0:0:0:0:0:0:0:1:65197	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 9/10: [basex:restxq] Variable $name is not specified as argument.	82.03 ms
+17:01:21.402	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:21.493	0:0:0:0:0:0:0:1:65197	admin	404	No function found that matches the request.	92.15 ms
+17:01:22.248	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:22.248	0:0:0:0:0:0:0:1:65197	admin	404	No function found that matches the request.	0.98 ms
+17:01:22.666	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:22.667	0:0:0:0:0:0:0:1:65197	admin	404	No function found that matches the request.	0.98 ms
+17:01:22.890	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:22.891	0:0:0:0:0:0:0:1:65197	admin	404	No function found that matches the request.	1.61 ms
+17:01:23.083	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:23.084	0:0:0:0:0:0:0:1:65197	admin	404	No function found that matches the request.	1.07 ms
+17:01:23.259	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /allgames
+17:01:23.259	0:0:0:0:0:0:0:1:65197	admin	404	No function found that matches the request.	1.24 ms
+17:01:37.641	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[GET] /choosegame
+17:01:37.683	0:0:0:0:0:0:0:1:65197	admin	200		41.72 ms
+17:01:47.860	0:0:0:0:0:0:0:1:65197	admin	REQUEST	[POST] /games
+17:01:47.913	0:0:0:0:0:0:0:1:65197	admin	200		51.95 ms
+17:03:14.364	0:0:0:0:0:0:0:1:65226	admin	REQUEST	[GET] /choosegame
+17:03:14.401	0:0:0:0:0:0:0:1:65226	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 9/10: [basex:restxq] Variable $gameid is not specified as argument.	35.91 ms
+17:03:23.456	0:0:0:0:0:0:0:1:65226	admin	REQUEST	[GET] /choosegame
+17:03:23.553	0:0:0:0:0:0:0:1:65226	admin	200		96.76 ms
+17:03:26.222	0:0:0:0:0:0:0:1:65226	admin	REQUEST	[POST] /games
+17:03:26.229	0:0:0:0:0:0:0:1:65226	admin	200		7.52 ms
+17:05:39.499	0:0:0:0:0:0:0:1:65244	admin	REQUEST	[GET] /allgames
+17:05:39.545	0:0:0:0:0:0:0:1:65244	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 20/39: [XPST0008] Undeclared variable: $phoneid.	45.68 ms
+17:06:23.232	0:0:0:0:0:0:0:1:65244	admin	REQUEST	[GET] /allgames
+17:06:23.282	0:0:0:0:0:0:0:1:65244	admin	200		50.42 ms
+17:06:38.890	0:0:0:0:0:0:0:1:65244	admin	REQUEST	[GET] /choosegame
+17:06:38.935	0:0:0:0:0:0:0:1:65244	admin	200		45.21 ms
+17:06:41.880	0:0:0:0:0:0:0:1:65244	admin	REQUEST	[POST] /games
+17:06:41.887	0:0:0:0:0:0:0:1:65244	admin	200		7.11 ms
+17:07:00.450	0:0:0:0:0:0:0:1:65244	admin	REQUEST	[GET] /allgames
+17:07:00.499	0:0:0:0:0:0:0:1:65244	admin	200		49.28 ms
+17:09:35.071	SERVER	admin	OK	Server was started (port: 1984).
+17:09:35.101	SERVER	admin	OK	HTTP Server was started (port: 8984).
+17:09:50.314	0:0:0:0:0:0:0:1:65301	admin	REQUEST	[GET] /allgames
+17:09:52.257	0:0:0:0:0:0:0:1:65301	admin	200		1948.22 ms
+17:11:59.703	0:0:0:0:0:0:0:1:65328	admin	REQUEST	[GET] /allgames
+17:11:59.794	0:0:0:0:0:0:0:1:65328	admin	200		91.31 ms
+17:12:00.501	0:0:0:0:0:0:0:1:65328	admin	REQUEST	[GET] /allgames
+17:12:00.509	0:0:0:0:0:0:0:1:65328	admin	200		8.41 ms
+17:12:00.983	0:0:0:0:0:0:0:1:65328	admin	REQUEST	[GET] /allgames
+17:12:00.993	0:0:0:0:0:0:0:1:65328	admin	200		9.86 ms
+17:12:01.308	0:0:0:0:0:0:0:1:65328	admin	REQUEST	[GET] /allgames
+17:12:01.316	0:0:0:0:0:0:0:1:65328	admin	200		8.22 ms
+17:14:11.226	0:0:0:0:0:0:0:1:65379	admin	REQUEST	[GET] /allgames
+17:14:11.319	0:0:0:0:0:0:0:1:65379	admin	200		93.96 ms
+17:14:11.492	0:0:0:0:0:0:0:1:65379	admin	REQUEST	[GET] /favicon.ico
+17:14:11.493	0:0:0:0:0:0:0:1:65379	admin	404	No function found that matches the request.	2.14 ms
+17:14:27.932	0:0:0:0:0:0:0:1:65379	admin	REQUEST	[GET] /choosegame
+17:14:27.988	0:0:0:0:0:0:0:1:65379	admin	200		56.26 ms
+17:14:29.272	0:0:0:0:0:0:0:1:65379	admin	REQUEST	[POST] /games
+17:14:29.286	0:0:0:0:0:0:0:1:65379	admin	200		13.98 ms
+17:14:35.060	0:0:0:0:0:0:0:1:65379	admin	REQUEST	[POST] /games
+17:14:35.119	0:0:0:0:0:0:0:1:65379	admin	200		59.88 ms
+17:15:54.519	0:0:0:0:0:0:0:1:65391	admin	REQUEST	[GET] /allgames
+17:15:54.648	0:0:0:0:0:0:0:1:65391	admin	200		130.09 ms
+17:16:01.056	0:0:0:0:0:0:0:1:65391	admin	REQUEST	[GET] /choosegame
+17:16:01.114	0:0:0:0:0:0:0:1:65391	admin	200		57.87 ms
+17:16:02.419	0:0:0:0:0:0:0:1:65391	admin	REQUEST	[POST] /games
+17:16:02.532	0:0:0:0:0:0:0:1:65391	admin	200		113.34 ms
+17:18:25.625	0:0:0:0:0:0:0:1:65404	admin	REQUEST	[GET] /allgames
+17:18:25.693	0:0:0:0:0:0:0:1:65404	admin	200		68.82 ms
+17:20:04.204	0:0:0:0:0:0:0:1:65414	admin	REQUEST	[GET] /allgames
+17:20:04.280	0:0:0:0:0:0:0:1:65414	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 49/16: [XPST0003] Expecting '}', found '>'.	75.65 ms
+17:20:05.026	0:0:0:0:0:0:0:1:65414	admin	REQUEST	[GET] /allgames
+17:20:05.071	0:0:0:0:0:0:0:1:65414	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 49/16: [XPST0003] Expecting '}', found '>'.	45.36 ms
+17:20:17.395	0:0:0:0:0:0:0:1:65414	admin	REQUEST	[GET] /allgames
+17:20:17.518	0:0:0:0:0:0:0:1:65414	admin	200		124.76 ms
+17:20:31.508	0:0:0:0:0:0:0:1:65414	admin	REQUEST	[GET] /allgames
+17:20:31.624	0:0:0:0:0:0:0:1:65414	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 51/1: [XPST0003] Expecting return value.	116.27 ms
+17:20:32.385	0:0:0:0:0:0:0:1:65414	admin	REQUEST	[GET] /allgames
+17:20:32.504	0:0:0:0:0:0:0:1:65414	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 51/1: [XPST0003] Expecting return value.	119.03 ms
+17:21:35.869	0:0:0:0:0:0:0:1:65427	admin	REQUEST	[GET] /allgames
+17:21:35.993	0:0:0:0:0:0:0:1:65427	admin	200		125.44 ms
+17:23:09.219	0:0:0:0:0:0:0:1:49246	admin	REQUEST	[GET] /allgames
+17:23:09.307	0:0:0:0:0:0:0:1:49246	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 44/12: [XQST0118] Different start and end tag: <link>...</head>.	88.66 ms
+17:23:10.115	0:0:0:0:0:0:0:1:49246	admin	REQUEST	[GET] /allgames
+17:23:10.199	0:0:0:0:0:0:0:1:49246	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 44/12: [XQST0118] Different start and end tag: <link>...</head>.	84.64 ms
+17:23:19.553	0:0:0:0:0:0:0:1:49246	admin	REQUEST	[GET] /allgames
+17:23:19.669	0:0:0:0:0:0:0:1:49246	admin	200		116.54 ms
+17:25:15.507	0:0:0:0:0:0:0:1:49254	admin	REQUEST	[GET] /allgames
+17:25:15.619	0:0:0:0:0:0:0:1:49254	admin	200		111.93 ms
+17:25:41.538	0:0:0:0:0:0:0:1:49254	admin	REQUEST	[GET] /allgames
+17:25:41.627	0:0:0:0:0:0:0:1:49254	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 53/4: [XPST0003] Expecting '}', found '>'.	89.51 ms
+17:26:27.483	0:0:0:0:0:0:0:1:49254	admin	REQUEST	[GET] /allgames
+17:26:27.588	0:0:0:0:0:0:0:1:49254	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 60/9: [XPST0003] Expecting '}', found '>'.	105.1 ms
+17:26:28.070	0:0:0:0:0:0:0:1:49254	admin	REQUEST	[GET] /allgames
+17:26:28.149	0:0:0:0:0:0:0:1:49254	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 60/9: [XPST0003] Expecting '}', found '>'.	80.36 ms
+17:26:28.241	0:0:0:0:0:0:0:1:49254	admin	REQUEST	[GET] /allgames
+17:26:28.329	0:0:0:0:0:0:0:1:49254	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 60/9: [XPST0003] Expecting '}', found '>'.	87.43 ms
+17:27:42.472	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:27:42.585	0:0:0:0:0:0:0:1:49270	admin	200		113.02 ms
+17:28:04.682	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:28:04.798	0:0:0:0:0:0:0:1:49270	admin	200		115.6 ms
+17:28:35.241	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:28:35.347	0:0:0:0:0:0:0:1:49270	admin	200		106.27 ms
+17:28:56.979	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:28:57.103	0:0:0:0:0:0:0:1:49270	admin	200		124.58 ms
+17:28:58.174	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:28:58.189	0:0:0:0:0:0:0:1:49270	admin	200		15.74 ms
+17:29:06.235	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:29:06.338	0:0:0:0:0:0:0:1:49270	admin	200		103.5 ms
+17:29:19.149	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:29:19.239	0:0:0:0:0:0:0:1:49270	admin	200		90.97 ms
+17:29:54.957	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:29:55.093	0:0:0:0:0:0:0:1:49270	admin	200		136.44 ms
+17:29:55.863	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:29:55.878	0:0:0:0:0:0:0:1:49270	admin	200		16.4 ms
+17:29:56.123	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:29:56.137	0:0:0:0:0:0:0:1:49270	admin	200		13.9 ms
+17:29:56.344	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:29:56.362	0:0:0:0:0:0:0:1:49270	admin	200		18.1 ms
+17:30:28.635	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:30:28.727	0:0:0:0:0:0:0:1:49270	admin	200		92.72 ms
+17:30:29.541	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:30:29.554	0:0:0:0:0:0:0:1:49270	admin	200		13.72 ms
+17:31:00.446	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:00.567	0:0:0:0:0:0:0:1:49270	admin	200		122.87 ms
+17:31:01.555	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:01.580	0:0:0:0:0:0:0:1:49270	admin	200		25.56 ms
+17:31:02.161	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:02.173	0:0:0:0:0:0:0:1:49270	admin	200		13.28 ms
+17:31:02.662	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:02.677	0:0:0:0:0:0:0:1:49270	admin	200		16.15 ms
+17:31:02.952	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:02.968	0:0:0:0:0:0:0:1:49270	admin	200		15.79 ms
+17:31:03.134	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:03.148	0:0:0:0:0:0:0:1:49270	admin	200		13.6 ms
+17:31:03.299	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:03.314	0:0:0:0:0:0:0:1:49270	admin	200		14.84 ms
+17:31:03.468	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:03.484	0:0:0:0:0:0:0:1:49270	admin	200		15.65 ms
+17:31:03.647	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:03.662	0:0:0:0:0:0:0:1:49270	admin	200		15.27 ms
+17:31:03.811	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:03.826	0:0:0:0:0:0:0:1:49270	admin	200		15.54 ms
+17:31:03.979	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:03.989	0:0:0:0:0:0:0:1:49270	admin	200		10.2 ms
+17:31:04.117	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:04.121	0:0:0:0:0:0:0:1:49270	admin	200		4.55 ms
+17:31:04.293	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:04.305	0:0:0:0:0:0:0:1:49270	admin	200		11.93 ms
+17:31:04.575	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:04.587	0:0:0:0:0:0:0:1:49270	admin	200		12.25 ms
+17:31:04.748	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:04.760	0:0:0:0:0:0:0:1:49270	admin	200		12.74 ms
+17:31:04.919	0:0:0:0:0:0:0:1:49270	admin	REQUEST	[GET] /allgames
+17:31:04.932	0:0:0:0:0:0:0:1:49270	admin	200		13.66 ms
+17:45:17.594	0:0:0:0:0:0:0:1:49357	admin	REQUEST	[GET] /allgames
+17:45:17.646	0:0:0:0:0:0:0:1:49357	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 109/48: [XPST0003] Variable or function declaration expected.	51.8 ms
+17:50:30.204	0:0:0:0:0:0:0:1:49382	admin	REQUEST	[GET] /games/add
+17:50:30.250	0:0:0:0:0:0:0:1:49382	admin	404	No function found that matches the request.	46.29 ms
+17:54:32.835	0:0:0:0:0:0:0:1:49400	admin	REQUEST	[GET] /games/add
+17:54:32.906	0:0:0:0:0:0:0:1:49400	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 154/2: [XPST0003] Expecting '}', found ';'.	71.27 ms
+17:54:33.624	0:0:0:0:0:0:0:1:49400	admin	REQUEST	[GET] /games/add
+17:54:33.685	0:0:0:0:0:0:0:1:49400	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 154/2: [XPST0003] Expecting '}', found ';'.	60.52 ms
+17:54:52.224	0:0:0:0:0:0:0:1:49400	admin	REQUEST	[GET] /allgames
+17:54:52.306	0:0:0:0:0:0:0:1:49400	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 154/2: [XPST0003] Expecting '}', found ';'.	82.42 ms
+17:54:52.363	0:0:0:0:0:0:0:1:49400	admin	REQUEST	[GET] /allgames
+17:54:52.391	0:0:0:0:0:0:0:1:49400	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 154/2: [XPST0003] Expecting '}', found ';'.	28.37 ms
+17:55:15.085	0:0:0:0:0:0:0:1:49400	admin	REQUEST	[GET] /allgames
+17:55:15.149	0:0:0:0:0:0:0:1:49400	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 155/1: [XPST0003] Incomplete expression.	65.26 ms
+17:55:15.815	0:0:0:0:0:0:0:1:49400	admin	REQUEST	[GET] /allgames
+17:55:15.882	0:0:0:0:0:0:0:1:49400	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 155/1: [XPST0003] Incomplete expression.	67.79 ms
+17:56:33.210	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /allgames
+17:56:33.312	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 145/3: [XPST0003] Incomplete expression.	102.31 ms
+17:56:37.769	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /allgames
+17:56:37.886	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 156/1: [XPST0003] Incomplete expression.	117.48 ms
+17:56:38.185	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /allgames
+17:56:38.275	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 156/1: [XPST0003] Incomplete expression.	90.98 ms
+17:56:38.371	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /allgames
+17:56:38.440	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 156/1: [XPST0003] Incomplete expression.	68.56 ms
+17:56:48.019	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /choosegame
+17:56:48.048	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 156/1: [XPST0003] Incomplete expression.	28.37 ms
+17:57:10.490	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /choosegame
+17:57:10.550	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	60.58 ms
+17:57:11.535	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /choosegame
+17:57:11.603	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	67.94 ms
+17:57:15.950	0:0:0:0:0:0:0:1:49409	admin	REQUEST	[GET] /allgames
+17:57:15.978	0:0:0:0:0:0:0:1:49409	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	28.92 ms
+17:59:06.978	0:0:0:0:0:0:0:1:49440	admin	REQUEST	[GET] /allgames
+17:59:07.094	0:0:0:0:0:0:0:1:49440	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	115.87 ms
+17:59:07.671	0:0:0:0:0:0:0:1:49440	admin	REQUEST	[GET] /allgames
+17:59:07.748	0:0:0:0:0:0:0:1:49440	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	78.12 ms
+17:59:07.937	0:0:0:0:0:0:0:1:49440	admin	REQUEST	[GET] /allgames
+17:59:08.021	0:0:0:0:0:0:0:1:49440	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	84.0 ms
+17:59:18.087	0:0:0:0:0:0:0:1:49440	admin	REQUEST	[GET] /addgame
+17:59:18.120	0:0:0:0:0:0:0:1:49440	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	33.05 ms
+18:00:22.628	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:00:22.728	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	101.43 ms
+18:00:23.250	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:00:23.321	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	71.15 ms
+18:00:23.466	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:00:23.542	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	75.26 ms
+18:00:23.647	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:00:23.692	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	45.17 ms
+18:00:23.825	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:00:23.890	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	65.46 ms
+18:00:24.000	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:00:24.065	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	65.74 ms
+18:00:24.168	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:00:24.249	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	82.19 ms
+18:01:16.716	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:01:16.807	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 145/7: [XUST0001] function declaration: no updating expression allowed.	91.64 ms
+18:01:17.548	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:01:17.625	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 145/7: [XUST0001] function declaration: no updating expression allowed.	77.26 ms
+18:01:17.961	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:01:18.016	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 145/7: [XUST0001] function declaration: no updating expression allowed.	56.18 ms
+18:01:18.156	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:01:18.210	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 145/7: [XUST0001] function declaration: no updating expression allowed.	53.57 ms
+18:01:18.330	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:01:18.414	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 145/7: [XUST0001] function declaration: no updating expression allowed.	83.09 ms
+18:02:14.124	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:14.222	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	98.07 ms
+18:02:14.713	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:14.785	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	72.01 ms
+18:02:14.897	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:14.957	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	59.45 ms
+18:02:15.075	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:15.146	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	71.42 ms
+18:02:15.239	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:15.311	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	72.4 ms
+18:02:15.401	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:15.471	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	70.54 ms
+18:02:15.550	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:15.617	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	67.83 ms
+18:02:15.723	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:15.760	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	37.89 ms
+18:02:15.888	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:15.979	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	91.48 ms
+18:02:16.115	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:16.169	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	53.69 ms
+18:02:16.223	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:16.281	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	57.77 ms
+18:02:16.384	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:16.430	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	46.67 ms
+18:02:16.583	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:16.669	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	85.85 ms
+18:02:16.745	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:16.820	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	74.68 ms
+18:02:16.925	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:16.981	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	55.77 ms
+18:02:17.076	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:17.145	0:0:0:0:0:0:0:1:49447	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	69.82 ms
+18:02:24.912	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:02:25.016	0:0:0:0:0:0:0:1:49447	admin	200		104.48 ms
+18:03:10.815	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:03:10.916	0:0:0:0:0:0:0:1:49447	admin	200		101.46 ms
+18:03:16.593	0:0:0:0:0:0:0:1:49447	admin	REQUEST	[GET] /addgame
+18:03:16.702	0:0:0:0:0:0:0:1:49447	admin	200		108.4 ms
+18:04:24.264	0:0:0:0:0:0:0:1:49513	admin	REQUEST	[GET] /addgame
+18:04:24.358	0:0:0:0:0:0:0:1:49513	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	94.4 ms
+18:09:37.794	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:37.874	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	79.15 ms
+18:09:38.331	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:38.394	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	63.21 ms
+18:09:38.492	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:38.563	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	71.02 ms
+18:09:38.669	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:38.727	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	57.81 ms
+18:09:38.825	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:38.872	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	46.77 ms
+18:09:38.987	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:39.045	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	57.89 ms
+18:09:39.160	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:39.230	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	70.45 ms
+18:09:39.341	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:39.410	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	68.98 ms
+18:09:39.488	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:39.551	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	63.02 ms
+18:09:39.639	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:39.700	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	62.67 ms
+18:09:39.778	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:39.849	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	71.35 ms
+18:09:39.973	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:40.042	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	68.27 ms
+18:09:40.120	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:40.180	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	59.91 ms
+18:09:40.276	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:40.343	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	67.82 ms
+18:09:40.460	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:40.523	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	63.3 ms
+18:09:40.632	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:40.707	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	75.34 ms
+18:09:40.823	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:40.898	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	74.73 ms
+18:09:41.012	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:41.095	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	84.15 ms
+18:09:41.198	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:41.235	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	37.24 ms
+18:09:41.355	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:41.432	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	77.27 ms
+18:09:49.037	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:49.137	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	99.98 ms
+18:09:49.587	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:49.649	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	61.56 ms
+18:09:49.761	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:49.832	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	71.01 ms
+18:09:49.937	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:50.015	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	77.72 ms
+18:09:55.868	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:09:55.967	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	98.45 ms
+18:10:00.634	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:10:00.701	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	67.36 ms
+18:10:08.513	0:0:0:0:0:0:0:1:49532	admin	REQUEST	[GET] /addgame
+18:10:08.611	0:0:0:0:0:0:0:1:49532	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 148/3: [XPST0003] Incomplete FLWOR expression: expecting 'return'.	97.47 ms
+18:12:14.878	0:0:0:0:0:0:0:1:49544	admin	REQUEST	[GET] /addgame
+18:12:14.915	0:0:0:0:0:0:0:1:49544	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	36.45 ms
+18:17:23.505	0:0:0:0:0:0:0:1:49584	admin	REQUEST	[GET] /addgame
+18:17:23.614	0:0:0:0:0:0:0:1:49584	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	110.03 ms
+18:17:24.142	0:0:0:0:0:0:0:1:49584	admin	REQUEST	[GET] /addgame
+18:17:24.206	0:0:0:0:0:0:0:1:49584	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	63.65 ms
+18:19:17.624	0:0:0:0:0:0:0:1:49592	admin	REQUEST	[GET] /addgame
+18:19:17.644	0:0:0:0:0:0:0:1:49592	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [XUST0028] No return type allowed in updating functions.	21.1 ms
+18:19:33.734	0:0:0:0:0:0:0:1:49592	admin	REQUEST	[GET] /addgame
+18:19:33.817	0:0:0:0:0:0:0:1:49592	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	83.64 ms
+18:19:34.590	0:0:0:0:0:0:0:1:49592	admin	REQUEST	[GET] /addgame
+18:19:34.646	0:0:0:0:0:0:0:1:49592	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	56.17 ms
+18:19:43.436	0:0:0:0:0:0:0:1:49592	admin	REQUEST	[GET] /addgame
+18:19:43.540	0:0:0:0:0:0:0:1:49592	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 147/7: [XUST0001] function declaration: no updating expression allowed.	104.41 ms
+18:19:44.115	0:0:0:0:0:0:0:1:49592	admin	REQUEST	[GET] /addgame
+18:19:44.178	0:0:0:0:0:0:0:1:49592	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 147/7: [XUST0001] function declaration: no updating expression allowed.	63.15 ms
+18:19:50.008	0:0:0:0:0:0:0:1:49592	admin	REQUEST	[GET] /addgame
+18:19:50.108	0:0:0:0:0:0:0:1:49592	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 145/3: [XPST0081] No namespace declared for 'add:output'.	99.75 ms
+18:21:28.558	0:0:0:0:0:0:0:1:49689	admin	REQUEST	[GET] /addgame
+18:21:28.603	0:0:0:0:0:0:0:1:49689	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	44.94 ms
+18:21:29.060	0:0:0:0:0:0:0:1:49689	admin	REQUEST	[GET] /addgame
+18:21:29.086	0:0:0:0:0:0:0:1:49689	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	26.15 ms
+18:21:29.540	0:0:0:0:0:0:0:1:49689	admin	REQUEST	[GET] /addgame
+18:21:29.573	0:0:0:0:0:0:0:1:49689	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	33.5 ms
+18:21:29.788	0:0:0:0:0:0:0:1:49689	admin	REQUEST	[GET] /addgame
+18:21:29.816	0:0:0:0:0:0:0:1:49689	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	27.68 ms
+18:21:29.971	0:0:0:0:0:0:0:1:49689	admin	REQUEST	[GET] /addgame
+18:21:29.996	0:0:0:0:0:0:0:1:49689	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	25.06 ms
+18:21:30.116	0:0:0:0:0:0:0:1:49689	admin	REQUEST	[GET] /addgame
+18:21:30.146	0:0:0:0:0:0:0:1:49689	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	29.0 ms
+18:21:30.285	0:0:0:0:0:0:0:1:49689	admin	REQUEST	[GET] /addgame
+18:21:30.313	0:0:0:0:0:0:0:1:49689	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 158/1: [XUST0001] function declaration: no updating expression allowed.	28.46 ms
+18:34:23.072	0:0:0:0:0:0:0:1:49779	admin	REQUEST	[GET] /addgame
+18:34:23.111	0:0:0:0:0:0:0:1:49779	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	39.44 ms
+18:34:25.145	0:0:0:0:0:0:0:1:49779	admin	REQUEST	[GET] /addgame
+18:34:25.173	0:0:0:0:0:0:0:1:49779	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 157/1: [XUST0001] function declaration: no updating expression allowed.	27.95 ms
+18:35:13.778	0:0:0:0:0:0:0:1:49779	admin	REQUEST	[GET] /allgames
+18:35:13.938	0:0:0:0:0:0:0:1:49779	admin	200		161.56 ms
+18:35:15.188	0:0:0:0:0:0:0:1:49779	admin	REQUEST	[GET] /allgames
+18:35:15.194	0:0:0:0:0:0:0:1:49779	admin	200		5.41 ms
+18:35:20.090	0:0:0:0:0:0:0:1:49779	admin	REQUEST	[GET] /addgame
+18:35:20.114	0:0:0:0:0:0:0:1:49779	admin	200		24.09 ms
+18:35:27.765	0:0:0:0:0:0:0:1:49779	admin	REQUEST	[POST] /game/add
+18:35:27.880	0:0:0:0:0:0:0:1:49779	admin	302	Location: /allgames	114.81 ms
+18:35:27.892	0:0:0:0:0:0:0:1:49779	admin	REQUEST	[GET] /allgames
+18:35:27.975	0:0:0:0:0:0:0:1:49779	admin	200		83.22 ms
+18:50:18.955	0:0:0:0:0:0:0:1:49942	admin	REQUEST	[GET] /allgames
+18:50:18.988	0:0:0:0:0:0:0:1:49942	admin	200		32.77 ms
+18:51:46.290	0:0:0:0:0:0:0:1:49950	admin	REQUEST	[GET] /allgames
+18:51:46.333	0:0:0:0:0:0:0:1:49950	admin	200		43.16 ms
+18:59:36.848	0:0:0:0:0:0:0:1:49972	admin	REQUEST	[GET] /allgames
+18:59:36.966	0:0:0:0:0:0:0:1:49972	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 169/19: [XQST0034] Duplicate declaration of function 'page:addedgame'.	118.87 ms
+18:59:52.577	0:0:0:0:0:0:0:1:49972	admin	REQUEST	[GET] /allgames
+18:59:52.677	0:0:0:0:0:0:0:1:49972	admin	200		100.89 ms
+19:00:00.168	0:0:0:0:0:0:0:1:49972	admin	REQUEST	[GET] /deletegame
+19:00:00.201	0:0:0:0:0:0:0:1:49972	admin	200		32.85 ms
+19:00:02.484	0:0:0:0:0:0:0:1:49972	admin	REQUEST	[POST] /game/delete
+19:00:02.484	0:0:0:0:0:0:0:1:49972	admin	404	No function found that matches the request.	0.25 ms
+19:00:32.404	0:0:0:0:0:0:0:1:49972	admin	REQUEST	[GET] /deletegame
+19:00:32.453	0:0:0:0:0:0:0:1:49972	admin	200		49.58 ms
+19:03:01.693	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[GET] /deletegame
+19:03:01.761	0:0:0:0:0:0:0:1:49995	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 167/1: [XPST0003] Expecting '$', found ')'.	69.12 ms
+19:03:02.589	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[GET] /deletegame
+19:03:02.651	0:0:0:0:0:0:0:1:49995	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 167/1: [XPST0003] Expecting '$', found ')'.	63.68 ms
+19:03:08.968	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[GET] /deletegame
+19:03:09.065	0:0:0:0:0:0:0:1:49995	admin	200		96.67 ms
+19:03:54.429	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[GET] /allgames
+19:03:54.526	0:0:0:0:0:0:0:1:49995	admin	200		98.09 ms
+19:03:56.716	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[GET] /allgames
+19:03:56.720	0:0:0:0:0:0:0:1:49995	admin	200		3.68 ms
+19:04:01.738	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[GET] /deletegame
+19:04:01.787	0:0:0:0:0:0:0:1:49995	admin	200		49.27 ms
+19:04:05.153	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[POST] /game/delete
+19:04:05.192	0:0:0:0:0:0:0:1:49995	admin	302	Location: /allgames	39.37 ms
+19:04:05.199	0:0:0:0:0:0:0:1:49995	admin	REQUEST	[GET] /allgames
+19:04:05.211	0:0:0:0:0:0:0:1:49995	admin	200		11.85 ms
+19:06:00.941	0:0:0:0:0:0:0:1:50006	admin	REQUEST	[GET] /deletegame
+19:06:00.979	0:0:0:0:0:0:0:1:50006	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 170/20: [XPST0003] Expecting valid step, found '='.	38.4 ms
+19:06:16.334	0:0:0:0:0:0:0:1:50006	admin	REQUEST	[GET] /deletegame
+19:06:16.418	0:0:0:0:0:0:0:1:50006	admin	200		84.8 ms
+19:06:18.663	0:0:0:0:0:0:0:1:50006	admin	REQUEST	[POST] /game/delete
+19:06:18.667	0:0:0:0:0:0:0:1:50006	admin	302	Location: /allgames	4.34 ms
+19:06:18.671	0:0:0:0:0:0:0:1:50006	admin	REQUEST	[GET] /allgames
+19:06:18.675	0:0:0:0:0:0:0:1:50006	admin	200		4.4 ms
+19:08:02.044	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /allgames
+19:08:02.133	0:0:0:0:0:0:0:1:50018	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 167/1: [XPST0003] Expecting '$', found ')'.	90.02 ms
+19:08:06.816	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /allgames
+19:08:06.899	0:0:0:0:0:0:0:1:50018	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 173/1: [XPST0003] Incomplete expression.	82.88 ms
+19:08:23.801	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /allgames
+19:08:23.877	0:0:0:0:0:0:0:1:50018	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 173/1: [XPST0003] Incomplete expression.	77.3 ms
+19:09:05.699	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /allgames
+19:09:05.750	0:0:0:0:0:0:0:1:50018	admin	200		50.84 ms
+19:09:09.149	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /deletegame
+19:09:09.174	0:0:0:0:0:0:0:1:50018	admin	200		25.91 ms
+19:09:11.514	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[POST] /game/delete
+19:09:11.518	0:0:0:0:0:0:0:1:50018	admin	302	Location: /allgames	4.23 ms
+19:09:11.522	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /allgames
+19:09:11.525	0:0:0:0:0:0:0:1:50018	admin	200		4.08 ms
+19:09:24.004	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /deletegame
+19:09:24.112	0:0:0:0:0:0:0:1:50018	admin	200		107.85 ms
+19:09:25.051	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /deletegame
+19:09:25.054	0:0:0:0:0:0:0:1:50018	admin	200		3.2 ms
+19:09:27.664	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[POST] /game/delete
+19:09:27.672	0:0:0:0:0:0:0:1:50018	admin	302	Location: /allgames	8.82 ms
+19:09:27.676	0:0:0:0:0:0:0:1:50018	admin	REQUEST	[GET] /allgames
+19:09:27.700	0:0:0:0:0:0:0:1:50018	admin	200		24.39 ms
+19:24:23.455	0:0:0:0:0:0:0:1:50088	admin	REQUEST	[GET] /allgames
+19:24:23.502	0:0:0:0:0:0:0:1:50088	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 221/44: [XPST0003] Incomplete expression.	46.66 ms
+19:26:22.271	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /allgames
+19:26:22.390	0:0:0:0:0:0:0:1:50098	admin	200		119.49 ms
+19:26:27.288	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /addgame
+19:26:27.319	0:0:0:0:0:0:0:1:50098	admin	200		31.15 ms
+19:26:36.251	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[POST] /game/add
+19:26:36.286	0:0:0:0:0:0:0:1:50098	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 137/19: [basex:restxq] Several functions found for path "/game/add": - page:addedgame - page:updatedgame	35.04 ms
+19:27:17.648	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[POST] /game/add
+19:27:17.691	0:0:0:0:0:0:0:1:50098	admin	302	Location: /allgames	42.58 ms
+19:27:17.695	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /allgames
+19:27:17.716	0:0:0:0:0:0:0:1:50098	admin	200		21.18 ms
+19:27:23.974	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /updategame
+19:27:24.009	0:0:0:0:0:0:0:1:50098	admin	200		34.52 ms
+19:27:34.267	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[POST] /game/update
+19:27:34.298	0:0:0:0:0:0:0:1:50098	admin	302	Location: /allgames	31.86 ms
+19:27:34.301	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /allgames
+19:27:34.306	0:0:0:0:0:0:0:1:50098	admin	200		4.23 ms
+19:28:31.920	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /allgames
+19:28:31.963	0:0:0:0:0:0:0:1:50098	admin	200		42.46 ms
+19:28:36.737	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /updategame
+19:28:36.786	0:0:0:0:0:0:0:1:50098	admin	200		49.78 ms
+19:28:43.724	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[POST] /game/update
+19:28:43.761	0:0:0:0:0:0:0:1:50098	admin	302	Location: /allgames	36.81 ms
+19:28:43.764	0:0:0:0:0:0:0:1:50098	admin	REQUEST	[GET] /allgames
+19:28:43.805	0:0:0:0:0:0:0:1:50098	admin	200		42.19 ms
+19:54:39.774	0:0:0:0:0:0:0:1:50230	admin	REQUEST	[GET] /allgames
+19:54:39.815	0:0:0:0:0:0:0:1:50230	admin	200		41.22 ms
+19:55:08.679	0:0:0:0:0:0:0:1:50230	admin	REQUEST	[GET] /allgames
+19:55:08.778	0:0:0:0:0:0:0:1:50230	admin	200		99.28 ms
+19:55:48.992	0:0:0:0:0:0:0:1:50230	admin	REQUEST	[GET] /allgames
+19:55:49.091	0:0:0:0:0:0:0:1:50230	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 41/29: [XPST0003] Expecting '}', found ':'.	99.17 ms
+19:55:49.870	0:0:0:0:0:0:0:1:50230	admin	REQUEST	[GET] /allgames
+19:55:49.932	0:0:0:0:0:0:0:1:50230	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 41/29: [XPST0003] Expecting '}', found ':'.	61.83 ms
+19:57:58.782	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:57:58.861	0:0:0:0:0:0:0:1:50314	admin	200		80.45 ms
+19:57:58.896	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:57:58.896	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.46 ms
+19:57:59.601	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:57:59.611	0:0:0:0:0:0:0:1:50314	admin	200		10.36 ms
+19:57:59.649	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:57:59.649	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.59 ms
+19:58:00.127	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:58:00.138	0:0:0:0:0:0:0:1:50314	admin	200		10.78 ms
+19:58:00.177	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:58:00.177	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.6 ms
+19:58:00.312	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:58:00.324	0:0:0:0:0:0:0:1:50314	admin	200		11.25 ms
+19:58:00.365	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:58:00.365	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.54 ms
+19:58:00.466	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:58:00.470	0:0:0:0:0:0:0:1:50314	admin	200		4.7 ms
+19:58:00.484	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:58:00.485	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.3 ms
+19:58:00.671	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:58:00.681	0:0:0:0:0:0:0:1:50314	admin	200		10.15 ms
+19:58:00.716	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:58:00.716	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.54 ms
+19:58:00.868	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:58:00.878	0:0:0:0:0:0:0:1:50314	admin	200		9.63 ms
+19:58:00.912	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:58:00.913	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.56 ms
+19:58:24.100	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /deletegame
+19:58:24.193	0:0:0:0:0:0:0:1:50314	admin	200		93.63 ms
+19:58:24.740	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /deletegame
+19:58:24.741	0:0:0:0:0:0:0:1:50314	admin	200		1.25 ms
+19:58:27.394	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[POST] /game/delete
+19:58:27.400	0:0:0:0:0:0:0:1:50314	admin	302	Location: /allgames	6.29 ms
+19:58:27.403	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:58:27.422	0:0:0:0:0:0:0:1:50314	admin	200		18.82 ms
+19:58:27.437	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:58:27.437	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.29 ms
+19:59:14.589	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:14.678	0:0:0:0:0:0:0:1:50314	admin	200		88.83 ms
+19:59:14.717	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:14.718	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.58 ms
+19:59:15.264	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:15.275	0:0:0:0:0:0:0:1:50314	admin	200		10.48 ms
+19:59:15.322	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:15.323	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.6 ms
+19:59:20.090	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:20.174	0:0:0:0:0:0:0:1:50314	admin	200		84.21 ms
+19:59:20.213	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:20.214	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.62 ms
+19:59:24.687	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:24.737	0:0:0:0:0:0:0:1:50314	admin	200		49.82 ms
+19:59:24.759	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:24.760	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.34 ms
+19:59:25.196	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:25.202	0:0:0:0:0:0:0:1:50314	admin	200		6.0 ms
+19:59:25.219	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:25.219	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.36 ms
+19:59:25.376	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:25.382	0:0:0:0:0:0:0:1:50314	admin	200		6.62 ms
+19:59:25.405	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:25.405	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.33 ms
+19:59:25.583	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:25.588	0:0:0:0:0:0:0:1:50314	admin	200		5.02 ms
+19:59:25.605	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:25.605	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.25 ms
+19:59:25.757	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:25.762	0:0:0:0:0:0:0:1:50314	admin	200		5.7 ms
+19:59:25.775	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:25.776	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.29 ms
+19:59:25.922	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:25.929	0:0:0:0:0:0:0:1:50314	admin	200		7.75 ms
+19:59:25.964	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:25.964	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.57 ms
+19:59:26.095	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:26.116	0:0:0:0:0:0:0:1:50314	admin	200		20.45 ms
+19:59:26.152	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:26.153	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.62 ms
+19:59:26.282	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:26.292	0:0:0:0:0:0:0:1:50314	admin	200		9.4 ms
+19:59:26.321	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:26.322	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.45 ms
+19:59:26.465	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:26.473	0:0:0:0:0:0:0:1:50314	admin	200		8.66 ms
+19:59:26.507	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:26.507	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.57 ms
+19:59:26.654	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:26.661	0:0:0:0:0:0:0:1:50314	admin	200		7.47 ms
+19:59:26.694	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:26.694	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.52 ms
+19:59:26.836	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:26.844	0:0:0:0:0:0:0:1:50314	admin	200		7.71 ms
+19:59:26.878	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:26.879	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.87 ms
+19:59:27.014	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:27.022	0:0:0:0:0:0:0:1:50314	admin	200		9.43 ms
+19:59:27.058	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:27.059	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.57 ms
+19:59:27.197	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:27.205	0:0:0:0:0:0:0:1:50314	admin	200		7.76 ms
+19:59:27.244	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:27.244	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.8 ms
+19:59:27.372	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:27.380	0:0:0:0:0:0:0:1:50314	admin	200		9.5 ms
+19:59:27.421	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:27.421	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.57 ms
+19:59:27.536	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /allgames
+19:59:27.545	0:0:0:0:0:0:0:1:50314	admin	200		8.9 ms
+19:59:27.580	0:0:0:0:0:0:0:1:50314	admin	REQUEST	[GET] /style.css
+19:59:27.580	0:0:0:0:0:0:0:1:50314	admin	404	No function found that matches the request.	0.61 ms
+20:02:01.634	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:01.728	0:0:0:0:0:0:0:1:50403	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 71/12: [XQST0118] Different start and end tag: <img>...</body>.	93.75 ms
+20:02:02.692	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:02.774	0:0:0:0:0:0:0:1:50403	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/game.xqm, 71/12: [XQST0118] Different start and end tag: <img>...</body>.	82.01 ms
+20:02:08.345	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:08.430	0:0:0:0:0:0:0:1:50403	admin	200		85.43 ms
+20:02:08.465	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /g1.png
+20:02:08.466	0:0:0:0:0:0:0:1:50403	admin	404	No function found that matches the request.	0.59 ms
+20:02:28.008	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:28.092	0:0:0:0:0:0:0:1:50403	admin	200		84.01 ms
+20:02:28.860	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:28.871	0:0:0:0:0:0:0:1:50403	admin	200		9.93 ms
+20:02:29.091	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:29.099	0:0:0:0:0:0:0:1:50403	admin	200		7.88 ms
+20:02:42.400	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:42.489	0:0:0:0:0:0:0:1:50403	admin	200		89.03 ms
+20:02:43.150	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:02:43.157	0:0:0:0:0:0:0:1:50403	admin	200		7.57 ms
+20:03:00.063	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:03:00.165	0:0:0:0:0:0:0:1:50403	admin	200		101.76 ms
+20:03:00.185	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /webapp/g1.png
+20:03:00.185	0:0:0:0:0:0:0:1:50403	admin	404	No function found that matches the request.	0.31 ms
+20:03:00.716	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:03:00.729	0:0:0:0:0:0:0:1:50403	admin	200		13.84 ms
+20:03:00.772	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /webapp/g1.png
+20:03:00.773	0:0:0:0:0:0:0:1:50403	admin	404	No function found that matches the request.	0.59 ms
+20:03:00.935	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:03:00.940	0:0:0:0:0:0:0:1:50403	admin	200		5.34 ms
+20:03:00.964	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /webapp/g1.png
+20:03:00.964	0:0:0:0:0:0:0:1:50403	admin	404	No function found that matches the request.	0.38 ms
+20:03:01.096	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /allgames
+20:03:01.101	0:0:0:0:0:0:0:1:50403	admin	200		5.82 ms
+20:03:01.132	0:0:0:0:0:0:0:1:50403	admin	REQUEST	[GET] /webapp/g1.png
+20:03:01.132	0:0:0:0:0:0:0:1:50403	admin	404	No function found that matches the request.	0.39 ms
+20:04:04.449	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:04:04.548	0:0:0:0:0:0:0:1:50433	admin	200		98.82 ms
+20:04:26.370	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:04:26.458	0:0:0:0:0:0:0:1:50433	admin	200		88.84 ms
+20:04:31.557	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:04:31.643	0:0:0:0:0:0:0:1:50433	admin	200		85.59 ms
+20:04:37.441	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:04:37.538	0:0:0:0:0:0:0:1:50433	admin	200		97.1 ms
+20:04:43.234	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:04:43.333	0:0:0:0:0:0:0:1:50433	admin	200		98.28 ms
+20:04:48.790	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:04:48.890	0:0:0:0:0:0:0:1:50433	admin	200		101.21 ms
+20:04:55.136	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:04:55.228	0:0:0:0:0:0:0:1:50433	admin	200		92.43 ms
+20:05:02.184	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:05:02.288	0:0:0:0:0:0:0:1:50433	admin	200		104.38 ms
+20:05:07.192	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:05:07.245	0:0:0:0:0:0:0:1:50433	admin	200		53.06 ms
+20:05:11.789	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:05:11.882	0:0:0:0:0:0:0:1:50433	admin	200		93.74 ms
+20:05:18.662	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:05:18.760	0:0:0:0:0:0:0:1:50433	admin	200		98.58 ms
+20:05:41.964	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:05:42.063	0:0:0:0:0:0:0:1:50433	admin	200		99.13 ms
+20:06:20.428	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:06:20.526	0:0:0:0:0:0:0:1:50433	admin	200		98.24 ms
+20:07:13.487	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:07:13.587	0:0:0:0:0:0:0:1:50433	admin	200		99.37 ms
+20:07:33.203	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:07:33.295	0:0:0:0:0:0:0:1:50433	admin	200		92.69 ms
+20:07:33.915	0:0:0:0:0:0:0:1:50433	admin	REQUEST	[GET] /allgames
+20:07:33.925	0:0:0:0:0:0:0:1:50433	admin	200		9.25 ms
+20:08:58.014	0:0:0:0:0:0:0:1:50541	admin	REQUEST	[GET] /allgames
+20:08:58.114	0:0:0:0:0:0:0:1:50541	admin	200		99.04 ms
+20:08:58.683	0:0:0:0:0:0:0:1:50541	admin	REQUEST	[GET] /allgames
+20:08:58.692	0:0:0:0:0:0:0:1:50541	admin	200		9.79 ms
+20:08:58.867	0:0:0:0:0:0:0:1:50541	admin	REQUEST	[GET] /allgames
+20:08:58.877	0:0:0:0:0:0:0:1:50541	admin	200		9.39 ms
+20:10:56.651	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:10:56.727	0:0:0:0:0:0:0:1:50598	admin	200		77.01 ms
+20:11:14.099	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:11:14.212	0:0:0:0:0:0:0:1:50598	admin	200		112.87 ms
+20:11:23.025	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:11:23.120	0:0:0:0:0:0:0:1:50598	admin	200		95.53 ms
+20:11:36.191	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:11:36.284	0:0:0:0:0:0:0:1:50598	admin	200		93.47 ms
+20:11:43.966	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:11:44.126	0:0:0:0:0:0:0:1:50598	admin	200		160.44 ms
+20:11:44.934	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:11:44.944	0:0:0:0:0:0:0:1:50598	admin	200		11.66 ms
+20:11:59.679	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:11:59.799	0:0:0:0:0:0:0:1:50598	admin	200		119.91 ms
+20:12:11.550	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:12:11.651	0:0:0:0:0:0:0:1:50598	admin	200		101.79 ms
+20:12:12.318	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:12:12.327	0:0:0:0:0:0:0:1:50598	admin	200		9.17 ms
+20:12:46.100	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:12:46.216	0:0:0:0:0:0:0:1:50598	admin	200		116.6 ms
+20:13:15.965	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:13:16.087	0:0:0:0:0:0:0:1:50598	admin	200		121.23 ms
+20:13:38.770	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:13:38.886	0:0:0:0:0:0:0:1:50598	admin	200		116.56 ms
+20:13:44.383	0:0:0:0:0:0:0:1:50598	admin	REQUEST	[GET] /allgames
+20:13:44.465	0:0:0:0:0:0:0:1:50598	admin	200		82.0 ms
+20:15:30.536	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:15:30.647	0:0:0:0:0:0:0:1:50659	admin	200		111.4 ms
+20:15:31.758	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:15:31.766	0:0:0:0:0:0:0:1:50659	admin	200		8.36 ms
+20:15:54.608	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:15:54.698	0:0:0:0:0:0:0:1:50659	admin	200		89.69 ms
+20:16:00.336	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:16:00.456	0:0:0:0:0:0:0:1:50659	admin	200		119.98 ms
+20:16:08.625	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:16:08.688	0:0:0:0:0:0:0:1:50659	admin	200		63.1 ms
+20:16:09.897	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:16:09.908	0:0:0:0:0:0:0:1:50659	admin	200		11.38 ms
+20:16:14.664	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:16:14.725	0:0:0:0:0:0:0:1:50659	admin	200		61.64 ms
+20:16:15.500	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:16:15.513	0:0:0:0:0:0:0:1:50659	admin	200		12.88 ms
+20:16:22.596	0:0:0:0:0:0:0:1:50659	admin	REQUEST	[GET] /allgames
+20:16:22.710	0:0:0:0:0:0:0:1:50659	admin	200		113.63 ms
+20:17:54.615	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:17:54.716	0:0:0:0:0:0:0:1:50710	admin	200		101.52 ms
+20:18:10.418	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:10.525	0:0:0:0:0:0:0:1:50710	admin	200		106.36 ms
+20:18:20.024	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:20.188	0:0:0:0:0:0:0:1:50710	admin	200		164.01 ms
+20:18:25.969	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:26.058	0:0:0:0:0:0:0:1:50710	admin	200		88.65 ms
+20:18:26.898	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:26.905	0:0:0:0:0:0:0:1:50710	admin	200		6.95 ms
+20:18:27.394	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:27.402	0:0:0:0:0:0:0:1:50710	admin	200		7.72 ms
+20:18:27.806	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:27.816	0:0:0:0:0:0:0:1:50710	admin	200		9.2 ms
+20:18:28.007	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:28.015	0:0:0:0:0:0:0:1:50710	admin	200		7.69 ms
+20:18:28.118	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:28.122	0:0:0:0:0:0:0:1:50710	admin	200		4.25 ms
+20:18:28.293	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:28.300	0:0:0:0:0:0:0:1:50710	admin	200		7.3 ms
+20:18:39.080	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:39.174	0:0:0:0:0:0:0:1:50710	admin	200		95.68 ms
+20:18:51.861	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:51.952	0:0:0:0:0:0:0:1:50710	admin	200		91.01 ms
+20:18:53.462	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:18:53.467	0:0:0:0:0:0:0:1:50710	admin	200		5.55 ms
+20:19:00.080	0:0:0:0:0:0:0:1:50710	admin	REQUEST	[GET] /allgames
+20:19:00.183	0:0:0:0:0:0:0:1:50710	admin	200		103.0 ms
+20:20:34.082	0:0:0:0:0:0:0:1:50778	admin	REQUEST	[GET] /allgames
+20:20:34.132	0:0:0:0:0:0:0:1:50778	admin	200		49.15 ms
+20:20:42.022	0:0:0:0:0:0:0:1:50778	admin	REQUEST	[GET] /allgames
+20:20:42.115	0:0:0:0:0:0:0:1:50778	admin	200		91.92 ms
+20:21:02.534	0:0:0:0:0:0:0:1:50778	admin	REQUEST	[GET] /allgames
+20:21:02.648	0:0:0:0:0:0:0:1:50778	admin	200		115.1 ms
+20:22:06.623	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:22:06.727	0:0:0:0:0:0:0:1:50807	admin	200		103.22 ms
+20:22:32.091	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:22:32.178	0:0:0:0:0:0:0:1:50807	admin	200		86.86 ms
+20:22:45.248	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:22:45.368	0:0:0:0:0:0:0:1:50807	admin	200		119.65 ms
+20:22:46.094	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:22:46.101	0:0:0:0:0:0:0:1:50807	admin	200		7.5 ms
+20:22:53.600	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:22:53.724	0:0:0:0:0:0:0:1:50807	admin	200		124.11 ms
+20:23:19.398	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:23:19.523	0:0:0:0:0:0:0:1:50807	admin	200		125.04 ms
+20:23:20.120	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:23:20.132	0:0:0:0:0:0:0:1:50807	admin	200		10.63 ms
+20:23:56.536	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:23:56.643	0:0:0:0:0:0:0:1:50807	admin	200		106.49 ms
+20:23:56.806	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:23:56.816	0:0:0:0:0:0:0:1:50807	admin	200		10.67 ms
+20:24:13.192	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:24:13.300	0:0:0:0:0:0:0:1:50807	admin	200		108.43 ms
+20:24:14.576	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:24:14.584	0:0:0:0:0:0:0:1:50807	admin	200		8.37 ms
+20:24:20.053	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:24:20.189	0:0:0:0:0:0:0:1:50807	admin	200		136.11 ms
+20:24:38.849	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:24:38.950	0:0:0:0:0:0:0:1:50807	admin	200		100.49 ms
+20:24:53.200	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:24:53.306	0:0:0:0:0:0:0:1:50807	admin	200		106.44 ms
+20:25:00.842	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:25:00.928	0:0:0:0:0:0:0:1:50807	admin	200		86.22 ms
+20:25:53.252	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:25:53.348	0:0:0:0:0:0:0:1:50807	admin	200		97.13 ms
+20:25:54.438	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:25:54.445	0:0:0:0:0:0:0:1:50807	admin	200		7.17 ms
+20:25:59.934	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:26:00.027	0:0:0:0:0:0:0:1:50807	admin	200		93.16 ms
+20:26:09.819	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:26:09.911	0:0:0:0:0:0:0:1:50807	admin	200		91.77 ms
+20:26:22.080	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:26:22.184	0:0:0:0:0:0:0:1:50807	admin	200		103.0 ms
+20:26:27.472	0:0:0:0:0:0:0:1:50807	admin	REQUEST	[GET] /allgames
+20:26:27.546	0:0:0:0:0:0:0:1:50807	admin	200		73.31 ms
+20:28:30.253	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:28:30.317	0:0:0:0:0:0:0:1:50940	admin	200		64.04 ms
+20:28:31.554	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /addgame
+20:28:31.555	0:0:0:0:0:0:0:1:50940	admin	200		1.57 ms
+20:29:12.296	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:29:12.391	0:0:0:0:0:0:0:1:50940	admin	200		96.15 ms
+20:29:22.465	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:29:22.555	0:0:0:0:0:0:0:1:50940	admin	200		89.46 ms
+20:29:48.047	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:29:48.137	0:0:0:0:0:0:0:1:50940	admin	200		89.58 ms
+20:29:58.354	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:29:58.462	0:0:0:0:0:0:0:1:50940	admin	200		107.39 ms
+20:30:14.725	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:30:14.833	0:0:0:0:0:0:0:1:50940	admin	200		107.81 ms
+20:30:21.597	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:30:21.687	0:0:0:0:0:0:0:1:50940	admin	200		89.72 ms
+20:30:29.517	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:30:29.579	0:0:0:0:0:0:0:1:50940	admin	200		62.9 ms
+20:30:35.841	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:30:35.911	0:0:0:0:0:0:0:1:50940	admin	200		70.25 ms
+20:30:41.362	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:30:41.458	0:0:0:0:0:0:0:1:50940	admin	200		96.37 ms
+20:30:46.017	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:30:46.134	0:0:0:0:0:0:0:1:50940	admin	200		116.85 ms
+20:30:54.670	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:30:54.766	0:0:0:0:0:0:0:1:50940	admin	200		95.35 ms
+20:31:03.628	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:31:03.730	0:0:0:0:0:0:0:1:50940	admin	200		102.23 ms
+20:31:17.311	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:31:17.424	0:0:0:0:0:0:0:1:50940	admin	200		113.39 ms
+20:31:25.929	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:31:26.025	0:0:0:0:0:0:0:1:50940	admin	200		96.52 ms
+20:31:33.125	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:31:33.217	0:0:0:0:0:0:0:1:50940	admin	200		91.78 ms
+20:31:40.193	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:31:40.292	0:0:0:0:0:0:0:1:50940	admin	200		98.36 ms
+20:31:53.947	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:31:54.017	0:0:0:0:0:0:0:1:50940	admin	200		70.74 ms
+20:32:00.779	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:32:00.905	0:0:0:0:0:0:0:1:50940	admin	200		125.75 ms
+20:32:05.445	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:32:05.543	0:0:0:0:0:0:0:1:50940	admin	200		98.01 ms
+20:32:14.844	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:32:14.936	0:0:0:0:0:0:0:1:50940	admin	200		91.25 ms
+20:32:20.117	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:32:20.217	0:0:0:0:0:0:0:1:50940	admin	200		99.74 ms
+20:32:51.694	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:32:51.795	0:0:0:0:0:0:0:1:50940	admin	200		102.26 ms
+20:33:02.175	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:33:02.275	0:0:0:0:0:0:0:1:50940	admin	200		100.0 ms
+20:33:21.288	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:33:21.380	0:0:0:0:0:0:0:1:50940	admin	200		92.73 ms
+20:33:23.752	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /addgame
+20:33:23.756	0:0:0:0:0:0:0:1:50940	admin	200		3.97 ms
+20:33:29.666	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/add
+20:33:29.699	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	33.29 ms
+20:33:29.713	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:33:29.742	0:0:0:0:0:0:0:1:50940	admin	200		28.65 ms
+20:33:40.088	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /updategame
+20:33:40.126	0:0:0:0:0:0:0:1:50940	admin	200		37.76 ms
+20:33:48.274	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/update
+20:33:48.310	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	35.89 ms
+20:33:48.313	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:33:48.341	0:0:0:0:0:0:0:1:50940	admin	200		27.88 ms
+20:34:12.261	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /deletegame
+20:34:12.294	0:0:0:0:0:0:0:1:50940	admin	200		33.55 ms
+20:34:13.932	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/delete
+20:34:13.938	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	6.35 ms
+20:34:13.942	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:34:13.959	0:0:0:0:0:0:0:1:50940	admin	200		17.71 ms
+20:34:22.303	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /updategame
+20:34:22.334	0:0:0:0:0:0:0:1:50940	admin	200		31.05 ms
+20:34:48.130	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /updategame
+20:34:48.161	0:0:0:0:0:0:0:1:50940	admin	200		31.63 ms
+20:34:52.800	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/update
+20:34:52.835	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	34.49 ms
+20:34:52.838	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:34:52.856	0:0:0:0:0:0:0:1:50940	admin	200		19.16 ms
+20:34:58.333	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /updategame
+20:34:58.362	0:0:0:0:0:0:0:1:50940	admin	200		28.88 ms
+20:35:07.476	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/update
+20:35:07.511	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	33.88 ms
+20:35:07.513	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:35:07.543	0:0:0:0:0:0:0:1:50940	admin	200		30.03 ms
+20:35:13.122	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /updategame
+20:35:13.149	0:0:0:0:0:0:0:1:50940	admin	200		27.59 ms
+20:35:59.738	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/update
+20:35:59.773	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	35.04 ms
+20:35:59.775	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:35:59.803	0:0:0:0:0:0:0:1:50940	admin	200		27.17 ms
+20:36:47.069	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /addgame
+20:36:47.113	0:0:0:0:0:0:0:1:50940	admin	200		43.45 ms
+20:37:31.272	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/add
+20:37:31.303	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	31.7 ms
+20:37:31.306	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:37:31.335	0:0:0:0:0:0:0:1:50940	admin	200		28.32 ms
+20:37:37.862	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /addgame
+20:37:37.889	0:0:0:0:0:0:0:1:50940	admin	200		27.03 ms
+20:37:49.028	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/add
+20:37:49.058	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	30.29 ms
+20:37:49.061	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:37:49.089	0:0:0:0:0:0:0:1:50940	admin	200		27.91 ms
+20:37:50.234	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /deletegame
+20:37:50.236	0:0:0:0:0:0:0:1:50940	admin	200		1.24 ms
+20:37:52.068	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[POST] /game/delete
+20:37:52.075	0:0:0:0:0:0:0:1:50940	admin	302	Location: /allgames	6.99 ms
+20:37:52.079	0:0:0:0:0:0:0:1:50940	admin	REQUEST	[GET] /allgames
+20:37:52.096	0:0:0:0:0:0:0:1:50940	admin	200		17.65 ms
+20:44:41.544	0:0:0:0:0:0:0:1:51170	admin	REQUEST	[GET] /allgames
+20:44:41.640	0:0:0:0:0:0:0:1:51170	admin	200		97.05 ms
+21:01:29.286	0:0:0:0:0:0:0:1:51203	admin	REQUEST	[GET] /addgame
+21:01:29.314	0:0:0:0:0:0:0:1:51203	admin	200		28.16 ms
+21:01:32.133	0:0:0:0:0:0:0:1:51203	admin	REQUEST	[GET] /updategame
+21:01:32.134	0:0:0:0:0:0:0:1:51203	admin	200		1.26 ms
+21:01:34.782	0:0:0:0:0:0:0:1:51203	admin	REQUEST	[GET] /deletegame
+21:01:34.783	0:0:0:0:0:0:0:1:51203	admin	200		1.45 ms
+23:54:25.971	SERVER	admin	OK	Server was started (port: 1984).
+23:54:26.006	SERVER	admin	OK	HTTP Server was started (port: 8984).
+23:54:35.475	0:0:0:0:0:0:0:1:51621	admin	REQUEST	[GET] /addgame
+23:54:36.188	0:0:0:0:0:0:0:1:51621	admin	200		715.09 ms
+23:54:36.318	0:0:0:0:0:0:0:1:51621	admin	REQUEST	[GET] /favicon.ico
+23:54:36.320	0:0:0:0:0:0:0:1:51621	admin	404	No function found that matches the request.	2.04 ms
+23:54:42.081	0:0:0:0:0:0:0:1:51621	admin	REQUEST	[GET] /ALLGAMES
+23:54:42.113	0:0:0:0:0:0:0:1:51621	admin	404	No function found that matches the request.	31.39 ms
+23:54:44.475	0:0:0:0:0:0:0:1:51621	admin	REQUEST	[GET] /allgames
+23:54:44.552	0:0:0:0:0:0:0:1:51621	admin	200		76.73 ms
+23:54:45.161	0:0:0:0:0:0:0:1:51621	admin	REQUEST	[GET] /allgames
+23:54:45.168	0:0:0:0:0:0:0:1:51621	admin	200		7.44 ms

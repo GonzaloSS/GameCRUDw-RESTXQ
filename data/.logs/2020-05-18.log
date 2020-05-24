@@ -1,0 +1,80 @@
+18:31:44.957	SERVER	admin	OK	Server was started (port: 1984).
+18:31:45.015	SERVER	admin	OK	HTTP Server was started (port: 8984).
+18:31:56.942	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:31:59.749	0:0:0:0:0:0:0:1:50261	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 10/10: [basex:restxq] Several functions found for path "/games": - page:games - page:games	2814.11 ms
+18:31:59.943	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /favicon.ico
+18:31:59.944	0:0:0:0:0:0:0:1:50261	admin	404	No function found that matches the request.	1.39 ms
+18:32:33.487	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:32:33.983	0:0:0:0:0:0:0:1:50261	admin	200		496.49 ms
+18:32:55.859	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:32:56.025	0:0:0:0:0:0:0:1:50261	admin	200		167.01 ms
+18:33:28.545	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:28.657	0:0:0:0:0:0:0:1:50261	admin	200		113.7 ms
+18:33:29.322	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:29.337	0:0:0:0:0:0:0:1:50261	admin	200		14.94 ms
+18:33:29.851	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:29.867	0:0:0:0:0:0:0:1:50261	admin	200		16.59 ms
+18:33:30.187	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:30.199	0:0:0:0:0:0:0:1:50261	admin	200		12.82 ms
+18:33:30.341	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:30.353	0:0:0:0:0:0:0:1:50261	admin	200		13.27 ms
+18:33:30.554	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:30.568	0:0:0:0:0:0:0:1:50261	admin	200		14.76 ms
+18:33:30.738	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:30.752	0:0:0:0:0:0:0:1:50261	admin	200		14.71 ms
+18:33:30.919	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:30.932	0:0:0:0:0:0:0:1:50261	admin	200		13.15 ms
+18:33:31.083	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:31.095	0:0:0:0:0:0:0:1:50261	admin	200		15.23 ms
+18:33:31.268	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:31.282	0:0:0:0:0:0:0:1:50261	admin	200		13.94 ms
+18:33:31.481	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:31.496	0:0:0:0:0:0:0:1:50261	admin	200		15.16 ms
+18:33:31.664	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:31.679	0:0:0:0:0:0:0:1:50261	admin	200		15.53 ms
+18:33:31.883	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:31.900	0:0:0:0:0:0:0:1:50261	admin	200		17.1 ms
+18:33:32.106	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:32.121	0:0:0:0:0:0:0:1:50261	admin	200		14.54 ms
+18:33:32.315	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:32.329	0:0:0:0:0:0:0:1:50261	admin	200		14.56 ms
+18:33:32.564	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:32.580	0:0:0:0:0:0:0:1:50261	admin	200		15.54 ms
+18:33:32.855	0:0:0:0:0:0:0:1:50261	admin	REQUEST	[GET] /games
+18:33:32.870	0:0:0:0:0:0:0:1:50261	admin	200		16.02 ms
+18:34:36.021	0:0:0:0:0:0:0:1:50319	admin	REQUEST	[GET] /games
+18:34:36.282	0:0:0:0:0:0:0:1:50319	admin	200		261.79 ms
+18:34:40.094	0:0:0:0:0:0:0:1:50319	admin	REQUEST	[GET] /gamesu
+18:34:40.133	0:0:0:0:0:0:0:1:50319	admin	404	No function found that matches the request.	39.48 ms
+18:35:11.890	0:0:0:0:0:0:0:1:50319	admin	REQUEST	[GET] /games
+18:35:11.929	0:0:0:0:0:0:0:1:50319	admin	200		39.19 ms
+18:35:15.780	0:0:0:0:0:0:0:1:50319	admin	REQUEST	[GET] /gamess
+18:35:15.822	0:0:0:0:0:0:0:1:50319	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 20/23: [XPDY0002] element({http://www.w3.org/1999/xhtml}games): Context is undeclared. Stack Trace: - C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 10/10	42.61 ms
+18:36:08.230	0:0:0:0:0:0:0:1:50319	admin	REQUEST	[GET] /games.xqm
+18:36:08.289	0:0:0:0:0:0:0:1:50319	admin	404	No function found that matches the request.	58.69 ms
+18:36:13.895	0:0:0:0:0:0:0:1:50319	admin	REQUEST	[GET] /
+18:36:13.951	0:0:0:0:0:0:0:1:50319	admin	200		56.17 ms
+18:36:59.682	0:0:0:0:0:0:0:1:50336	admin	REQUEST	[GET] /gamess
+18:36:59.737	0:0:0:0:0:0:0:1:50336	admin	200		54.88 ms
+18:44:47.624	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:44:47.707	0:0:0:0:0:0:0:1:50420	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/31: [XPST0003] Expecting '}', found 'c'.	84.24 ms
+18:44:49.326	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:44:49.422	0:0:0:0:0:0:0:1:50420	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/31: [XPST0003] Expecting '}', found 'c'.	96.03 ms
+18:44:55.931	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:44:56.033	0:0:0:0:0:0:0:1:50420	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/31: [XPST0003] Expecting '}', found 'c'.	101.77 ms
+18:44:56.679	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:44:56.751	0:0:0:0:0:0:0:1:50420	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/31: [XPST0003] Expecting '}', found 'c'.	72.9 ms
+18:45:00.713	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:45:00.748	0:0:0:0:0:0:0:1:50420	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/31: [XPST0003] Expecting '}', found 'c'.	33.64 ms
+18:45:14.270	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:45:14.376	0:0:0:0:0:0:0:1:50420	admin	200		105.6 ms
+18:45:15.463	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:45:15.476	0:0:0:0:0:0:0:1:50420	admin	200		13.61 ms
+18:45:39.888	0:0:0:0:0:0:0:1:50420	admin	REQUEST	[GET] /gamess
+18:45:39.927	0:0:0:0:0:0:0:1:50420	admin	200		39.55 ms
+18:48:07.078	0:0:0:0:0:0:0:1:50525	admin	REQUEST	[GET] /gamess
+18:48:07.106	0:0:0:0:0:0:0:1:50525	admin	200		27.77 ms
+18:48:07.779	0:0:0:0:0:0:0:1:50525	admin	REQUEST	[GET] /gamess
+18:48:07.784	0:0:0:0:0:0:0:1:50525	admin	200		5.15 ms
+18:48:07.956	0:0:0:0:0:0:0:1:50525	admin	REQUEST	[GET] /gamess
+18:48:07.962	0:0:0:0:0:0:0:1:50525	admin	200		5.71 ms

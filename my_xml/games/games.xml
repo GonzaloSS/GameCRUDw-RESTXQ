@@ -1,0 +1,42 @@
+<games>
+<game>
+<gameid>1</gameid>
+<name>League of Legends</name>
+<year>2009</year>
+<month>10</month>
+<day>27</day>
+<develop>Riot Games</develop>
+</game>
+<game>
+<gameid>2</gameid>
+<name>Counter Strike</name>
+<year>1999</year>
+<month>6</month>
+<day>18</day>
+<develop>Valve</develop>
+</game>
+<game>
+<gameid>3</gameid>
+<name>Sims</name>
+<year>2000</year>
+<month>01</month>
+<day>31</day>
+<develop>Electronic Arts</develop>
+</game>
+<game>
+<gameid>4</gameid>
+<name>FIFA</name>
+<year>1997</year>
+<month>06</month>
+<day>17</day>
+<develop>Electronic Arts</develop>
+</game>
+<game>
+<gameid>5</gameid>
+<name>Pro Evolution</name>
+<year>1997</year>
+<month>06</month>
+<day>1</day>
+<develop>Konami Computers</develop>
+</game>
+</games>

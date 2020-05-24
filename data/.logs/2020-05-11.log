@@ -1,0 +1,44 @@
+18:37:15.628	SERVER	admin	OK	Server was started (port: 1984).
+18:37:15.657	SERVER	admin	OK	HTTP Server was started (port: 8984).
+18:39:24.247	192.168.0.27:50888	admin	REQUEST	[GET] /myactors
+18:39:24.877	192.168.0.27:50888	admin	200		633.07 ms
+18:39:24.978	192.168.0.27:50888	admin	REQUEST	[GET] /favicon.ico
+18:39:24.978	192.168.0.27:50888	admin	404	No function found that matches the request.	0.82 ms
+18:40:15.789	192.168.0.27:50888	admin	REQUEST	[GET] /myactors
+18:40:15.828	192.168.0.27:50888	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 26/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/prueba.xml' does not exist.	38.7 ms
+18:40:16.763	192.168.0.27:50888	admin	REQUEST	[GET] /myactors
+18:40:16.767	192.168.0.27:50888	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 26/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/prueba.xml' does not exist.	4.72 ms
+18:40:21.231	SERVER	admin	OK	HTTP Server was stopped (port: 8984).
+18:40:21.232	SERVER	admin	OK	Server was stopped (port: 1984).
+18:40:32.320	SERVER	admin	OK	Server was started (port: 1984).
+18:40:32.342	SERVER	admin	OK	HTTP Server was started (port: 8984).
+18:40:34.203	192.168.0.27:50940	admin	REQUEST	[GET] /myactors
+18:40:34.806	192.168.0.27:50940	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 26/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/prueba.xml' does not exist.	603.75 ms
+18:41:04.943	192.168.0.27:50940	admin	REQUEST	[GET] /myactors
+18:41:05.034	192.168.0.27:50940	admin	200		91.54 ms
+18:42:00.948	SERVER	admin	OK	Server was started (port: 1984).
+18:42:00.969	SERVER	admin	OK	HTTP Server was started (port: 8984).
+18:42:02.576	192.168.0.27:50994	admin	REQUEST	[GET] /myactors
+18:42:03.248	192.168.0.27:50994	admin	200		672.77 ms
+18:44:20.861	192.168.0.27:51060	admin	REQUEST	[GET] /myactors
+18:44:20.907	192.168.0.27:51060	admin	200		47.04 ms
+18:44:58.112	192.168.0.27:51060	admin	REQUEST	[GET] /myactors
+18:44:58.147	192.168.0.27:51060	admin	200		34.7 ms
+18:44:58.873	192.168.0.27:51060	admin	REQUEST	[GET] /myactors
+18:44:58.880	192.168.0.27:51060	admin	200		6.45 ms
+18:44:59.141	192.168.0.27:51060	admin	REQUEST	[GET] /myactors
+18:44:59.155	192.168.0.27:51060	admin	200		14.41 ms
+18:44:59.313	192.168.0.27:51060	admin	REQUEST	[GET] /myactors
+18:44:59.330	192.168.0.27:51060	admin	200		17.02 ms
+18:44:59.497	192.168.0.27:51060	admin	REQUEST	[GET] /myactors
+18:44:59.511	192.168.0.27:51060	admin	200		14.29 ms
+18:48:51.480	192.168.0.27:51199	admin	REQUEST	[GET] /myactors
+18:48:51.509	192.168.0.27:51199	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movies' does not exist.	28.71 ms
+18:48:52.150	192.168.0.27:51199	admin	REQUEST	[GET] /myactors
+18:48:52.153	192.168.0.27:51199	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movies' does not exist.	3.42 ms
+18:51:47.311	192.168.0.27:51285	admin	REQUEST	[GET] /myactors
+18:51:47.337	192.168.0.27:51285	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 24/8: [XPST0003] Expecting '}', found '>'.	26.13 ms
+18:52:26.066	192.168.0.27:51285	admin	REQUEST	[GET] /myactors
+18:52:26.097	192.168.0.27:51285	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 24/8: [XPST0003] Expecting '}', found '>'.	30.69 ms
+18:52:36.547	192.168.0.27:51285	admin	REQUEST	[GET] /myactors
+18:52:36.594	192.168.0.27:51285	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/my_module2.xqm, 20/18: [FODC0002] Resource 'C:/Program Files (x86)/BaseX/webapp/WEB-INF/movies' does not exist.	47.33 ms

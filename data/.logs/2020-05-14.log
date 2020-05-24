@@ -1,0 +1,88 @@
+02:16:32.690	SERVER	admin	OK	Server was started (port: 1984).
+02:16:32.718	SERVER	admin	OK	HTTP Server was started (port: 8984).
+02:16:43.694	0:0:0:0:0:0:0:1:53827	admin	REQUEST	[GET] /games
+02:16:44.328	0:0:0:0:0:0:0:1:53827	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	635.09 ms
+02:16:44.524	0:0:0:0:0:0:0:1:53827	admin	REQUEST	[GET] /favicon.ico
+02:16:44.781	0:0:0:0:0:0:0:1:53827	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	256.68 ms
+02:17:38.413	0:0:0:0:0:0:0:1:53827	admin	REQUEST	[GET] /games
+02:17:38.615	0:0:0:0:0:0:0:1:53827	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	202.26 ms
+02:17:38.662	0:0:0:0:0:0:0:1:53827	admin	REQUEST	[GET] /favicon.ico
+02:17:38.843	0:0:0:0:0:0:0:1:53827	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	181.45 ms
+02:17:39.522	0:0:0:0:0:0:0:1:53827	admin	REQUEST	[GET] /games
+02:17:39.717	0:0:0:0:0:0:0:1:53827	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	196.38 ms
+02:17:39.808	0:0:0:0:0:0:0:1:53827	admin	REQUEST	[GET] /favicon.ico
+02:17:40.016	0:0:0:0:0:0:0:1:53827	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	208.91 ms
+02:17:43.271	SERVER	admin	OK	HTTP Server was stopped (port: 8984).
+02:17:43.273	SERVER	admin	OK	Server was stopped (port: 1984).
+02:17:48.015	SERVER	admin	OK	Server was started (port: 1984).
+02:17:48.036	SERVER	admin	OK	HTTP Server was started (port: 8984).
+02:17:52.136	0:0:0:0:0:0:0:1:53844	admin	REQUEST	[GET] /games
+02:17:52.734	0:0:0:0:0:0:0:1:53844	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	600.49 ms
+02:17:52.789	0:0:0:0:0:0:0:1:53844	admin	REQUEST	[GET] /favicon.ico
+02:17:53.053	0:0:0:0:0:0:0:1:53844	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $game.	265.41 ms
+02:18:54.929	SERVER	admin	OK	HTTP Server was stopped (port: 8984).
+02:18:54.931	SERVER	admin	OK	Server was stopped (port: 1984).
+02:19:03.040	SERVER	admin	OK	Server was started (port: 1984).
+02:19:03.063	SERVER	admin	OK	HTTP Server was started (port: 8984).
+02:19:05.029	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /games
+02:19:05.681	0:0:0:0:0:0:0:1:53866	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $games.	654.13 ms
+02:19:05.799	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /favicon.ico
+02:19:06.041	0:0:0:0:0:0:0:1:53866	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/restxq.xqm, 21/13: [XPST0008] Undeclared variable: $games.	241.21 ms
+02:19:22.261	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /games
+02:19:22.429	0:0:0:0:0:0:0:1:53866	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/13: [XPST0008] Undeclared variable: $games.	167.29 ms
+02:19:22.459	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /favicon.ico
+02:19:22.641	0:0:0:0:0:0:0:1:53866	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/13: [XPST0008] Undeclared variable: $games.	181.07 ms
+02:19:23.303	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /games
+02:19:23.471	0:0:0:0:0:0:0:1:53866	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/13: [XPST0008] Undeclared variable: $games.	168.42 ms
+02:19:23.507	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /favicon.ico
+02:19:23.664	0:0:0:0:0:0:0:1:53866	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 21/13: [XPST0008] Undeclared variable: $games.	157.68 ms
+02:19:40.348	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /games
+02:19:40.596	0:0:0:0:0:0:0:1:53866	admin	200		248.1 ms
+02:19:40.653	0:0:0:0:0:0:0:1:53866	admin	REQUEST	[GET] /favicon.ico
+02:19:40.655	0:0:0:0:0:0:0:1:53866	admin	404	No function found that matches the request.	1.36 ms
+02:21:39.631	0:0:0:0:0:0:0:1:53906	admin	REQUEST	[GET] /games
+02:21:39.657	0:0:0:0:0:0:0:1:53906	admin	400	Stopped at C:/Program Files (x86)/BaseX/webapp/WEB-INF/games.xqm, 20/17: [basex:doc] Database path 'ProjectGonzaloRestxq' yields no documents.	25.86 ms
+02:22:42.390	0:0:0:0:0:0:0:1:53911	admin	REQUEST	[GET] /alumnos
+02:22:42.414	0:0:0:0:0:0:0:1:53911	admin	404	No function found that matches the request.	24.54 ms
+02:23:30.769	0:0:0:0:0:0:0:1:53911	admin	REQUEST	[GET] /games
+02:23:30.788	0:0:0:0:0:0:0:1:53911	admin	200		18.64 ms
+02:23:31.453	0:0:0:0:0:0:0:1:53911	admin	REQUEST	[GET] /games
+02:23:31.459	0:0:0:0:0:0:0:1:53911	admin	200		6.85 ms
+02:23:31.648	0:0:0:0:0:0:0:1:53911	admin	REQUEST	[GET] /games
+02:23:31.654	0:0:0:0:0:0:0:1:53911	admin	200		5.96 ms
+02:24:17.946	0:0:0:0:0:0:0:1:53911	admin	REQUEST	[GET] /games
+02:24:17.966	0:0:0:0:0:0:0:1:53911	admin	200		20.01 ms
+02:25:31.961	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:25:31.993	0:0:0:0:0:0:0:1:53936	admin	200		32.52 ms
+02:25:33.006	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:25:33.010	0:0:0:0:0:0:0:1:53936	admin	200		3.49 ms
+02:25:33.451	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:25:33.455	0:0:0:0:0:0:0:1:53936	admin	200		3.47 ms
+02:25:47.296	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:25:47.331	0:0:0:0:0:0:0:1:53936	admin	200		36.19 ms
+02:25:47.798	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:25:47.801	0:0:0:0:0:0:0:1:53936	admin	200		3.64 ms
+02:25:47.974	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:25:47.983	0:0:0:0:0:0:0:1:53936	admin	200		8.68 ms
+02:26:25.119	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:26:25.136	0:0:0:0:0:0:0:1:53936	admin	200		17.38 ms
+02:26:25.630	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:26:25.637	0:0:0:0:0:0:0:1:53936	admin	200		7.17 ms
+02:26:25.839	0:0:0:0:0:0:0:1:53936	admin	REQUEST	[GET] /games
+02:26:25.842	0:0:0:0:0:0:0:1:53936	admin	200		2.56 ms
+02:27:27.252	0:0:0:0:0:0:0:1:53947	admin	REQUEST	[GET] /games
+02:27:27.285	0:0:0:0:0:0:0:1:53947	admin	200		33.0 ms
+02:27:46.507	0:0:0:0:0:0:0:1:53947	admin	REQUEST	[GET] /games
+02:27:46.531	0:0:0:0:0:0:0:1:53947	admin	200		24.13 ms
+02:28:20.823	0:0:0:0:0:0:0:1:53947	admin	REQUEST	[GET] /games
+02:28:20.851	0:0:0:0:0:0:0:1:53947	admin	200		27.63 ms
+02:29:55.222	0:0:0:0:0:0:0:1:53958	admin	REQUEST	[GET] /games
+02:29:55.240	0:0:0:0:0:0:0:1:53958	admin	200		17.89 ms
+02:30:24.486	0:0:0:0:0:0:0:1:53958	admin	REQUEST	[GET] /games
+02:30:24.518	0:0:0:0:0:0:0:1:53958	admin	200		32.5 ms
+02:30:25.306	0:0:0:0:0:0:0:1:53958	admin	REQUEST	[GET] /games
+02:30:25.320	0:0:0:0:0:0:0:1:53958	admin	200		14.38 ms
+02:30:26.055	0:0:0:0:0:0:0:1:53958	admin	REQUEST	[GET] /games
+02:30:26.060	0:0:0:0:0:0:0:1:53958	admin	200		5.58 ms
+02:30:26.255	0:0:0:0:0:0:0:1:53958	admin	REQUEST	[GET] /games
+02:30:26.260	0:0:0:0:0:0:0:1:53958	admin	200		4.17 ms
