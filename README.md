@@ -27,7 +27,7 @@ The firt step was make a xml on Base X, then I use Visual Studio Code for make t
 - localhost:8984/updategame
 - localhost:8984/addgames
 
-Anyways, the are a lot of links but they are used for a crosspoint with the XML to do the CRUD like /game/add or something.
+Anyways, there are a lot of links but they are used for a crosspoint with the XML to do the CRUD like /game/add or something.
 
 
 ## So that's all, hope you like this project and see you on the next project!!!!
